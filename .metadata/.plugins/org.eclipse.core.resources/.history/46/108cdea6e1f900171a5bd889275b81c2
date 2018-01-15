@@ -1,0 +1,7 @@
+
+public class HelloWorld {
+	String s="Hello";
+	private void syso() {
+	
+
+}

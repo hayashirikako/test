@@ -1,0 +1,26 @@
+/**
+ *
+ */
+
+/**
+ * @author testuser
+ *
+ */
+public class Robot {
+public String name=null;
+public void talk(){
+	System.out.println("が+話す");
+}
+public void walk(){
+	System.out.println("が+歩く");
+}
+public void run(){
+	System.out.println("が+走る");
+
+
+}
+
+
+	}
+
+
